@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C347_L2_EX1 Demo Explicit Intent</string>
+    <string name="strength">Strength</string>
+    <string name="technical">Technical</string>
+    <string name="name">Name</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+</resources>
